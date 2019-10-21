@@ -73,5 +73,5 @@ while True:
             print("ERROR UPDATING RECORDS")
             db.rollback()
     else:
-        print("BYE")
+        print("f BYE")
         break
